@@ -14,11 +14,11 @@ Usage
 
 Clone the repository:
 
-Copygit clone https://github.com/your-username/prompt-engineering-demo.git
+git clone https://github.com/your-username/prompt-engineering-demo.git
 
 Navigate to the project directory:
 
-Copycd prompt-engineering-demo
+cd prompt-engineering-demo
 
 Run the script:
 
