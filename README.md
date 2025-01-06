@@ -14,15 +14,15 @@ Usage
 
 Clone the repository:
 
-Copygit clone https://github.com/your-username/prompt-engineering-demo.git
+git clone https://github.com/your-username/prompt-engineering-demo.git
 
 Navigate to the project directory:
 
-Copycd prompt-engineering-demo
+cd prompt-engineering-demo
 
 Run the script:
 
-Copypython prompt_engineering_demo.py
+python prompt_engineering_demo.py
 The script will generate three different product descriptions using the professional, casual, and technical prompt styles. It will print the enhanced prompts, the generated descriptions, and the prompt quality metrics for each style.
 Requirements
 
